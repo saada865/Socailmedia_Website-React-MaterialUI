@@ -5,7 +5,7 @@ This is how the Website looks like
 
 <img width="1440" alt="Screenshot 2023-07-29 at 5 31 21 PM" src="https://github.com/saada865/Socailmedia_Website_React_MaterialUI/assets/80025562/541085e1-655d-4111-9aaa-959897db1529">
 
-The the can also be changed to dark
+The theme can also be changed to dark
 
 <img width="1440" alt="Screenshot 2023-07-29 at 5 30 37 PM" src="https://github.com/saada865/Socailmedia_Website_React_MaterialUI/assets/80025562/76043c0f-b9b4-45f2-9be4-3e0c0c6866a1">
 
